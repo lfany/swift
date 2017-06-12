@@ -1,0 +1,3 @@
+[submodule "ShadowsocksX-NG"]
+	path = ShadowsocksX-NG
+	url = https://github.com/shadowsocks/ShadowsocksX-NG
